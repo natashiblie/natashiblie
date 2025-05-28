@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Natalia 👋
 
-<!--
-**natashiblie/natashiblie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm currently an Economics student at LSE and I’m passionate about trying new things — especially when it comes to coding, data, and exploring how tech can solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- Exploring new programming languages and tools
+- Polishing up my GitHub with clean, well-documented projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Languages & Tools
+`Python` | `Pandas` | `Jupyter Notebook` | `Stata`  
+`SQL` | `APIs`
+
+## 📌 Featured Projects
+- [Is London Rainy?](https://github.com/natashiblie/is-london-rainy) – Weather API analysis with Python & visualisation  
+- [Autonomous Vehicles Case Study](https://github.com/natashiblie/autonomous-vehicles-case-study) – Exploring the ethical and technical challenges of AVs  
+
+## 🌱 Learning Goals
+- Try new programming languages
+- Have fun with coding
+
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/natalia-ashiblie/)
+- 📧 Email: nataliashiblie@gmail.com
