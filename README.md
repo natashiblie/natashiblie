@@ -21,5 +21,5 @@ Welcome to my GitHub! I'm currently an Economics student at LSE and I’m passio
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/natalia-ashiblie/)
 - 📧 Email: nataliashiblie@gmail.com
-- ![Natashiblie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natashiblie&show_icons=true&theme=default)
+![Natashiblie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natashiblie&show_icons=true&theme=default)
 
