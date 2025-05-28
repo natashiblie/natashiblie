@@ -7,8 +7,17 @@ Welcome to my GitHub! I'm currently an Economics student at LSE and I’m passio
 - Polishing up my GitHub with clean, well-documented projects
 
 ## 🧰 Languages & Tools
-`Python` | `Pandas` | `Jupyter Notebook` | `Stata`  
-`SQL` | `APIs`
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stata-0033A0?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
 
 ## 📌 Featured Projects
 - [Is London Rainy?](https://github.com/natashiblie/is-london-rainy) – Weather API analysis with Python & visualisation  
