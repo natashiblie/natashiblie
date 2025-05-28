@@ -1,6 +1,6 @@
 # Hi, I’m Natalia 👋
 
-Welcome to my GitHub! I'm currently an Economics student at LSE and I’m passionate about trying new things — especially when it comes to coding, data, and exploring how tech can solve real-world problems.
+Welcome to my GitHub! I'm currently an Economics student at LSE and I’m passionate about trying new things, especially when it comes to coding and exploring how tech can solve real-world problems.
 
 ## 🚀 What I'm Working On
 - Exploring new programming languages and tools
